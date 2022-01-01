@@ -1,0 +1,2 @@
+# ShockTube_FVM
+The interest in studying the shock tube problem is threefold. From a fundamental point of view, it offers an interesting framework to introduce some basic notions about nonlinear hyperbolic systems of partial differential equations (PDEs). From a numerical point of view, this problem constitutes, since the exact solution is known, an inevitable and difficult test case for any numerical method dealing with discontinuous solutions. Finally, there is a practical interest, since this model is used to describe real shock tube experimental devices.
